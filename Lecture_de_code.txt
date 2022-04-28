@@ -1,0 +1,25 @@
+① variable empty_seat = C
+ ② variable seats_count = A 
+ ③ variable number_of_visitors = E 
+ ④ variable users = F
+ ⑤ variable seating_number = F
+ ⑥ variable fill_last_number = E
+
+Lisez le bon code de réponse ci-dessous et remplissez-le. 
+ A = 8
+ B = 10
+ C = 13
+ D = 11
+ E = 15
+ F = 4
+ G = 6
+ H = 12
+ I = 9
+ J = 14
+ K = 3
+ L = 2
+ M = 5
+ N = 7
+ O = 17
+ P = 1
+ Q =16
